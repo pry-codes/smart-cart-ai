@@ -1,5 +1,3 @@
-Here is a comprehensive `README.md` file designed specifically for your **Smart Cart AI** project based on your repository structure:
-
 ```markdown
 # 🛒 Smart Cart AI
 

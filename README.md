@@ -96,6 +96,8 @@ In the project directory, you can run the following commands:
 
 ## 📦 Deployment
 
+Public Link: https://kasparro-hackathon.vercel.app/
+
 To build the project for deployment:
 
 ```bash

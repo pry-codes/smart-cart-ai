@@ -1,4 +1,3 @@
-```markdown
 # 🛒 Smart Cart AI
 
 An intelligent, interactive 3D Web shopping cart experience powered by React, Three.js (`@react-three/fiber`), and Vite. Smart Cart AI delivers an immersive product interaction model designed for modern e-commerce applications.
